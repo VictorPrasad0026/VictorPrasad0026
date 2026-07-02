@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Rishabh Prasad Banner" width="100%">
+  <img src="./assets/banner1.png" alt="Rishabh Prasad Banner" width="100%">
 </p>
 
 <br>
