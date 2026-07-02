@@ -179,6 +179,14 @@ Location        : India 🇮🇳
 
 ### ⚡ Secure • Automate • Research
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VictorPrasad0026/VictorPrasad0026/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
 *"Think like a defender. Build like an engineer. Learn continuously."*
 
 </p>
