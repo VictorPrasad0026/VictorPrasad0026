@@ -125,9 +125,9 @@ Location        : India 🇮🇳
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorPrasad0026&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorPrasad0026&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPrasad0026&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPrasad0026&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -137,7 +137,17 @@ Location        : India 🇮🇳
 
 </p>
 
----
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VictorPrasad0026&label=Visitors&style=for-the-badge&color=00C2FF"/>
+
+<img src="https://img.shields.io/github/followers/VictorPrasad0026?style=for-the-badge&logo=github&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/VictorPrasad0026?style=for-the-badge&logo=github&label=Stars"/>
+
+<img src="https://img.shields.io/github/last-commit/VictorPrasad0026/VictorPrasad0026?style=for-the-badge&label=Last%20Update"/>
+
+</p>
 
 # 🏆 Achievements
 
@@ -400,6 +410,17 @@ Topics
 
 ---
 
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VictorPrasad0026/VictorPrasad0026/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+*"Think like a defender. Build like an engineer. Learn continuously."*
+
+</p>
+
 # 💡 Fun Facts
 
 ```text
@@ -436,12 +457,4 @@ If you like my work and projects, consider giving them a ⭐ on GitHub.
 
 </div>
 
-# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VictorPrasad0026/VictorPrasad0026/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-*"Think like a defender. Build like an engineer. Learn continuously."*
-
-</p>
