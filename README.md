@@ -181,6 +181,261 @@ Location        : India 🇮🇳
 
 ---
 
+
+---
+
+# 🤖 AI Cybersecurity Research
+
+## 🛡️ AI-Powered Intrusion Detection System (IDS)
+
+A research-oriented project focused on applying Artificial Intelligence and Machine Learning for real-time cyber threat detection.
+
+### Current Objectives
+
+- 🔍 Network Traffic Classification
+- 🧠 Random Forest Detection
+- ⚡ XGBoost Detection
+- 🤖 Deep Neural Networks
+- 📈 Real-Time Packet Monitoring
+- 📡 Threat Intelligence Integration
+
+### Future Roadmap
+
+- 🕸️ Graph Neural Networks (GNN)
+- 🔬 Explainable AI (XAI)
+- 🦠 Malware Classification
+- 🚨 Zero-Day Threat Detection
+- 🌐 Federated Learning
+- 📊 Security Analytics Dashboard
+
+---
+
+# 🛠️ Featured Projects
+
+## 🚀 TechFixNow
+
+> Technical Support Platform
+
+### Features
+
+- Expert Booking
+- Video Consultation
+- JWT Authentication
+- MongoDB Database
+- Node.js Backend
+- Session Scheduling
+- Secure APIs
+
+---
+
+## 🛡️ AI Intrusion Detection System
+
+Machine Learning powered Intrusion Detection System
+
+Technology Stack
+
+- Python
+- Scikit-Learn
+- Pandas
+- NumPy
+- XGBoost
+- Random Forest
+- Deep Learning
+
+Features
+
+- Live Packet Analysis
+- Threat Classification
+- Network Monitoring
+- Real-Time Detection
+- Performance Dashboard
+
+---
+
+## ☁️ Cloud Security Labs
+
+Learning and implementing cloud security best practices.
+
+Topics
+
+- IAM
+- AWS Security
+- Azure Security
+- Docker Security
+- Kubernetes Security
+- Terraform Security
+- DevSecOps
+
+---
+
+# 📚 Currently Learning
+
+<table>
+<tr>
+<td>
+
+## Offensive Security
+
+- Burp Suite
+- Metasploit
+- Nmap
+- Gobuster
+- SQL Injection
+- XSS
+- Active Directory
+
+</td>
+
+<td>
+
+## Defensive Security
+
+- Threat Hunting
+- SOC Operations
+- Malware Analysis
+- SIEM
+- Splunk
+- Wireshark
+- Incident Response
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,c,cpp"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+</p>
+
+### Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode"/>
+
+</p>
+
+---
+
+# 📜 Certifications Roadmap
+
+| Certification | Status |
+|---------------|--------|
+| CEH | ⏳ Planned |
+| Security+ | ⏳ Planned |
+| PNPT | ⏳ Planned |
+| AZ-500 | ⏳ Planned |
+| AWS Security Specialty | ⏳ Planned |
+| Kubernetes Security | ⏳ Planned |
+| Google Cybersecurity | ⏳ Planned |
+
+---
+
+# 🗺️ 2026 Roadmap
+
+- ✅ Burp Suite
+- ✅ Metasploit
+- ✅ Web Application Security
+- 🔄 Cloud Security
+- 🔄 DevSecOps
+- 🔄 AI Security Research
+- 🔄 Publish Research Paper
+- 🔄 Build Open Source Security Tool
+- 🔄 Contribute to Open Source
+- 🔄 Obtain Security Certifications
+
+---
+
+# 📈 GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorPrasad0026&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorPrasad0026&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorPrasad0026&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🛡️ Become Cloud Security Engineer
+- ☁️ Master AWS Security
+- 🔥 Build Complete DevSecOps Pipeline
+- 🤖 Publish AI Cybersecurity Research
+- 📚 Complete CEH
+- 🎓 Pursue MS in Computer Science
+- 🌍 Contribute to Security Open Source
+- 🎤 Speak at Security Conferences
+
+---
+
+# 💡 Fun Facts
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Break();
+
+    Secure();
+
+    Repeat();
+
+}
+```
+
+---
+
+# ☕ Support My Work
+
+If you like my work and projects, consider giving them a ⭐ on GitHub.
+
+---
+
+<div align="center">
+
+## ⚡ "Think Like an Attacker. Build Like a Defender."
+
+*"Security is a journey, not a destination."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0D1117&height=120&section=footer"/>
+
+</div>
+
 # 🐍 Contribution Snake
 
 <p align="center">
