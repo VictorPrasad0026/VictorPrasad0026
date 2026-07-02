@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Rishabh Prasad Banner" width="100%">
+</p>
+
+<br>
+
 # Hi 👋, I'm Rishabh Prasad
 
 ### Cybersecurity Professional @ PwC
