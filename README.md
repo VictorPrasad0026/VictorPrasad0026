@@ -55,9 +55,11 @@ Location        : India 🇮🇳
 
 > Discover your attack surface. Simulate adversary paths. Fix what matters.
 
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-AAFF00?style=for-the-badge&logo=github&logoColor=black)](https://victorprasad0026.github.io/web_asm/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorPrasad0026/web_asm)
-[![Documentation](https://img.shields.io/badge/Documentation-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorPrasad0026/web_asm/blob/main/SENTINELX_DOCUMENTATION.md)
+
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Visit%20Site-AAFF00?style=for-the-badge&logo=github&logoColor=black)](https://victorprasad0026.github.io/web_asm/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorPrasad0026/web_asm)
+[![Documentation](https://img.shields.io/badge/Documentation-Read%20Docs-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorPrasad0026/web_asm/blob/main/SENTINELX_DOCUMENTATION.md)
+
 
 🌐 **Live Site:** https://victorprasad0026.github.io/web_asm/
 
