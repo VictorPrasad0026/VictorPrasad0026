@@ -1,30 +1,17 @@
-<p align="center">
-  <img src="./assets/banner1.png" width="100%" alt="Rishabh Prasad Banner"/>
-</p>
+[![Rishabh Prasad Banner](https://github.com/VictorPrasad0026/VictorPrasad0026/raw/main/assets/banner1.png)](https://github.com/VictorPrasad0026)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rishabh+Prasad;Cybersecurity+Professional+@+PwC;Cloud+Security+Engineer+in+Progress;DevSecOps+|+Application+Security;Ethical+Hacking+|+Security+Research;Building+Secure+Cloud-Native+Systems" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rishabh+Prasad;Cybersecurity+Professional+%40+PwC;Cloud+Security+Engineer+in+Progress;DevSecOps+%7C+Application+Security;Ethical+Hacking+%7C+Security+Research;Building+Secure+Cloud-Native+Systems)](https://github.com/VictorPrasad0026)
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=VictorPrasad0026&style=for-the-badge&color=00C2FF"/>
-
-  <img src="https://img.shields.io/github/followers/VictorPrasad0026?style=for-the-badge&logo=github"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=VictorPrasad0026&style=for-the-badge&color=00C2FF)](https://github.com/VictorPrasad0026)
+[![GitHub followers](https://img.shields.io/github/followers/VictorPrasad0026?style=for-the-badge&logo=github)](https://github.com/VictorPrasad0026)
 
 ---
 
 # 🛰️ Operator Profile
 
-```yaml
+```
 Operator        : Rishabh Prasad
 Current Role    : Cybersecurity Professional @ PwC
 Status          : 🟢 ACTIVE
@@ -43,52 +30,74 @@ Location        : India 🇮🇳
 
 ## ☁️ Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform"/>
-</p>
+[![Cloud Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform)](https://github.com/VictorPrasad0026)
 
 ## 💻 Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,js,express,mongodb,git,linux,bash,vscode"/>
-</p>
+[![Dev Skills](https://skillicons.dev/icons?i=python,nodejs,js,express,mongodb,git,linux,bash,vscode)](https://github.com/VictorPrasad0026)
 
 ## 🔐 Security Toolkit
 
-| Offensive | Defensive |
-|------------|-----------|
-| Burp Suite | OWASP Top 10 |
-| Metasploit | Secure SDLC |
-| Nmap | Threat Modeling |
-| Gobuster | IAM |
-| Hydra | Security Monitoring |
-| Wireshark | Cloud Security |
+| Offensive  | Defensive           |
+| ---------- | ------------------- |
+| Burp Suite | OWASP Top 10        |
+| Metasploit | Secure SDLC         |
+| Nmap       | Threat Modeling     |
+| Gobuster   | IAM                 |
+| Hydra      | Security Monitoring |
+| Wireshark  | Cloud Security      |
+
+---
+
+# 🛡️ Featured Project
+
+### SentinelX V5 — Enterprise Attack Surface Management Platform
+
+> Discover your attack surface. Simulate adversary paths. Fix what matters.
+
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-AAFF00?style=for-the-badge&logo=github&logoColor=black)](https://victorprasad0026.github.io/web_asm/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorPrasad0026/web_asm)
+[![Documentation](https://img.shields.io/badge/Documentation-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorPrasad0026/web_asm/blob/main/SENTINELX_DOCUMENTATION.md)
+
+🌐 **Live Site:** https://victorprasad0026.github.io/web_asm/
+
+Built a full-stack enterprise security platform with a 39-stage intelligence pipeline, MITRE ATT&CK attack simulation, AI-powered copilot, and compliance mapping across PCI-DSS, GDPR, ISO27001, NIST and OWASP.
+
+**Key Features:**
+- 🔍 39-stage intelligence pipeline — DNS, subdomains, CVE, TLS, secrets
+- 🎯 MITRE ATT&CK mapped attack path simulation
+- 🤖 AI Security Copilot powered by Groq LLM
+- ⚖️ Compliance mapping — PCI-DSS, GDPR, ISO27001, NIST, OWASP
+- 🕸️ Interactive knowledge graph with asset relationships
+- 👑 Crown jewel identification & business impact analysis
+
+**Stack:** `Python` `Flask` `React 18` `Groq AI` `NVD` `CISA KEV` `EPSS`
 
 ---
 
 # 🎯 Current Operations
 
-| Mission | Progress |
-|---------|:--------:|
-| ☁️ Cloud Security | ███████░░░ 70% |
-| 🔥 DevSecOps | ██████░░░░ 60% |
+| Mission                | Progress       |
+| ---------------------- | -------------- |
+| ☁️ Cloud Security      | ███████░░░ 70% |
+| 🔥 DevSecOps            | ██████░░░░ 60% |
 | 🔐 Application Security | ███████░░░ 70% |
-| ⚔️ Ethical Hacking | ████████░░ 80% |
-| 🤖 AI Security | ████░░░░░░ 40% |
-| 📚 Security Research | █████░░░░░ 50% |
+| ⚔️ Ethical Hacking     | ████████░░ 80% |
+| 🤖 AI Security          | ████░░░░░░ 40% |
+| 📚 Security Research    | █████░░░░░ 50% |
 
 ---
 
 # 🚀 Active Deployments
 
-| Project | Status |
-|---------|--------|
-| 🟢 TechFixNow | Production |
-| 🟡 AI Intrusion Detection System | Research |
-| 🟡 Cloud Security Labs | Building |
-| 🟢 Burp Suite Labs | Active |
-| 🟢 Metasploit Labs | Active |
-| 🟡 DevSecOps Pipeline | In Development |
+| Project                         | Status         |
+| ------------------------------- | -------------- |
+| 🟢 SentinelX V5 — ASM Platform  | Production     |
+| 🟢 TechFixNow                    | Production     |
+| 🟡 AI Intrusion Detection System | Research       |
+| 🟡 Cloud Security Labs           | Building       |
+| 🟢 Burp Suite Labs               | Active         |
+| 🟡 DevSecOps Pipeline            | In Development |
 
 ---
 
@@ -123,74 +132,24 @@ Location        : India 🇮🇳
 
 # 📊 Live Telemetry
 
-<p align="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorPrasad0026&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/VictorPrasad0026)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPrasad0026&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/VictorPrasad0026)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorPrasad0026&show_icons=true&theme=tokyonight&hide_border=true"/>
+[![Streak Stats](https://streak-stats.demolab.com?user=VictorPrasad0026&theme=tokyonight&hide_border=true)](https://github.com/VictorPrasad0026)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPrasad0026&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=VictorPrasad0026&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=VictorPrasad0026&label=Visitors&style=for-the-badge&color=00C2FF"/>
-
-<img src="https://img.shields.io/github/followers/VictorPrasad0026?style=for-the-badge&logo=github&label=Followers"/>
-
-<img src="https://img.shields.io/github/stars/VictorPrasad0026?style=for-the-badge&logo=github&label=Stars"/>
-
-<img src="https://img.shields.io/github/last-commit/VictorPrasad0026/VictorPrasad0026?style=for-the-badge&label=Last%20Update"/>
-
-</p>
+[![Visitors](https://komarev.com/ghpvc/?username=VictorPrasad0026&label=Visitors&style=for-the-badge&color=00C2FF)](https://github.com/VictorPrasad0026)
+[![Followers](https://img.shields.io/github/followers/VictorPrasad0026?style=for-the-badge&logo=github&label=Followers)](https://github.com/VictorPrasad0026)
+[![Last Update](https://img.shields.io/github/last-commit/VictorPrasad0026/VictorPrasad0026?style=for-the-badge&label=Last%20Update)](https://github.com/VictorPrasad0026)
 
 # 🏆 Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VictorPrasad0026&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=VictorPrasad0026&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4)](https://github.com/VictorPrasad0026)
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorPrasad0026&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⚡ Secure • Automate • Research
-
----
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorPrasad0026&theme=tokyo-night&hide_border=true)](https://github.com/VictorPrasad0026)
 
 ---
 
@@ -220,92 +179,17 @@ A research-oriented project focused on applying Artificial Intelligence and Mach
 
 ---
 
-# 🛠️ Featured Projects
-
-## 🚀 TechFixNow
-
-> Technical Support Platform
-
-### Features
-
-- Expert Booking
-- Video Consultation
-- JWT Authentication
-- MongoDB Database
-- Node.js Backend
-- Session Scheduling
-- Secure APIs
-
----
-
-## 🛡️ SentinelX V5 — Attack Surface Management Platform
-
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Visit%20Site-AAFF00?style=for-the-badge&logo=github&logoColor=black)](https://victorprasad0026.github.io/web_asm/)
-[![Frontend](https://img.shields.io/badge/Frontend-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorPrasad0026/web_asm)
-[![Backend](https://img.shields.io/badge/Backend-Private%20Repo-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorPrasad0026/sentinelx-backend)
-
-> Enterprise-grade Attack Surface Management with AI-powered security intelligence
-
-🌐 **Live Site:** https://victorprasad0026.github.io/web_asm/
-
-**Features:**
-- 🔍 39-stage intelligence pipeline (DNS, subdomains, CVE, TLS, secrets)
-- 🎯 MITRE ATT&CK mapped attack path simulation
-- 🤖 AI Security Copilot powered by Groq LLM
-- ⚖️ Compliance mapping — PCI-DSS, GDPR, ISO27001, NIST, OWASP
-- 🕸️ Interactive knowledge graph with asset relationships
-- 👑 Crown jewel identification & business impact analysis
-
-**Stack:** `Python` `Flask` `React 18` `Groq AI` `NVD` `CISA KEV` `EPSS`
-## ☁️ Cloud Security Labs
-
-Learning and implementing cloud security best practices.
-
-Topics
-
-- IAM
-- AWS Security
-- Azure Security
-- Docker Security
-- Kubernetes Security
-- Terraform Security
-- DevSecOps
-
----
-
 # 📚 Currently Learning
 
-<table>
-<tr>
-<td>
-
-## Offensive Security
-
-- Burp Suite
-- Metasploit
-- Nmap
-- Gobuster
-- SQL Injection
-- XSS
-- Active Directory
-
-</td>
-
-<td>
-
-## Defensive Security
-
-- Threat Hunting
-- SOC Operations
-- Malware Analysis
-- SIEM
-- Splunk
-- Wireshark
-- Incident Response
-
-</td>
-</tr>
-</table>
+| Offensive Security | Defensive Security |
+|---|---|
+| Burp Suite | Threat Hunting |
+| Metasploit | SOC Operations |
+| Nmap | Malware Analysis |
+| Gobuster | SIEM |
+| SQL Injection | Splunk |
+| XSS | Wireshark |
+| Active Directory | Incident Response |
 
 ---
 
@@ -313,49 +197,33 @@ Topics
 
 ### Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,c,cpp"/>
-
-</p>
+[![Languages](https://skillicons.dev/icons?i=python,javascript,nodejs,c,cpp)](https://github.com/VictorPrasad0026)
 
 ### Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-
-</p>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://github.com/VictorPrasad0026)
 
 ### Cloud
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform"/>
-
-</p>
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform)](https://github.com/VictorPrasad0026)
 
 ### Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode"/>
-
-</p>
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,bash,vscode)](https://github.com/VictorPrasad0026)
 
 ---
 
 # 📜 Certifications Roadmap
 
-| Certification | Status |
-|---------------|--------|
-| CEH | ⏳ Planned |
-| Security+ | ⏳ Planned |
-| PNPT | ⏳ Planned |
-| AZ-500 | ⏳ Planned |
+| Certification          | Status    |
+| ---------------------- | --------- |
+| CEH                    | ⏳ Planned |
+| Security+              | ⏳ Planned |
+| PNPT                   | ⏳ Planned |
+| AZ-500                 | ⏳ Planned |
 | AWS Security Specialty | ⏳ Planned |
-| Kubernetes Security | ⏳ Planned |
-| Google Cybersecurity | ⏳ Planned |
+| Kubernetes Security    | ⏳ Planned |
+| Google Cybersecurity   | ⏳ Planned |
 
 ---
 
@@ -364,11 +232,11 @@ Topics
 - ✅ Burp Suite
 - ✅ Metasploit
 - ✅ Web Application Security
+- ✅ SentinelX V5 — ASM Platform
 - 🔄 Cloud Security
 - 🔄 DevSecOps
 - 🔄 AI Security Research
 - 🔄 Publish Research Paper
-- 🔄 Build Open Source Security Tool
 - 🔄 Contribute to Open Source
 - 🔄 Obtain Security Certifications
 
@@ -376,19 +244,7 @@ Topics
 
 # 📈 GitHub Metrics
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorPrasad0026&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorPrasad0026&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorPrasad0026&theme=github_dark"/>
-
-</p>
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorPrasad0026&theme=github_dark)](https://github.com/VictorPrasad0026)
 
 ---
 
@@ -405,32 +261,21 @@ Topics
 
 ---
 
-
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VictorPrasad0026/VictorPrasad0026/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
+[![Contribution Snake](https://raw.githubusercontent.com/VictorPrasad0026/VictorPrasad0026/output/github-contribution-grid-snake-dark.svg)](https://github.com/VictorPrasad0026)
 
 *"Think like a defender. Build like an engineer. Learn continuously."*
 
-</p>
-
 # 💡 Fun Facts
 
-```text
+```
 while(alive){
-
     Learn();
-
     Build();
-
     Break();
-
     Secure();
-
     Repeat();
-
 }
 ```
 
@@ -442,14 +287,8 @@ If you like my work and projects, consider giving them a ⭐ on GitHub.
 
 ---
 
-<div align="center">
-
 ## ⚡ "Think Like an Attacker. Build Like a Defender."
 
 *"Security is a journey, not a destination."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0D1117&height=120&section=footer"/>
-
-</div>
-
-
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0D1117&height=120&section=footer)](https://github.com/VictorPrasad0026)
