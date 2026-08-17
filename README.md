@@ -240,20 +240,23 @@ A research-oriented project focused on applying Artificial Intelligence and Mach
 
 ## 🛡️ SentinelX V5 — Attack Surface Management Platform
 
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Visit%20Site-AAFF00?style=for-the-badge&logo=netlify&logoColor=black)](https://monumental-peony-140351.netlify.app)
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/VictorPrasad0026/web_asm)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Visit%20Site-AAFF00?style=for-the-badge&logo=github&logoColor=black)](https://victorprasad0026.github.io/web_asm/)
+[![Frontend](https://img.shields.io/badge/Frontend-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorPrasad0026/web_asm)
+[![Backend](https://img.shields.io/badge/Backend-Private%20Repo-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorPrasad0026/sentinelx-backend)
 
 > Enterprise-grade Attack Surface Management with AI-powered security intelligence
 
+🌐 **Live Site:** https://victorprasad0026.github.io/web_asm/
+
 **Features:**
 - 🔍 39-stage intelligence pipeline (DNS, subdomains, CVE, TLS, secrets)
-- 🎯 MITRE ATT&CK mapped attack path simulation  
+- 🎯 MITRE ATT&CK mapped attack path simulation
 - 🤖 AI Security Copilot powered by Groq LLM
 - ⚖️ Compliance mapping — PCI-DSS, GDPR, ISO27001, NIST, OWASP
 - 🕸️ Interactive knowledge graph with asset relationships
+- 👑 Crown jewel identification & business impact analysis
 
-**Stack:** Python · Flask · React · Groq AI · NVD · CISA KEV
-
+**Stack:** `Python` `Flask` `React 18` `Groq AI` `NVD` `CISA KEV` `EPSS`
 ## ☁️ Cloud Security Labs
 
 Learning and implementing cloud security best practices.
