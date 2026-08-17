@@ -238,29 +238,21 @@ A research-oriented project focused on applying Artificial Intelligence and Mach
 
 ---
 
-## 🛡️ AI Intrusion Detection System
+## 🛡️ SentinelX V5 — Attack Surface Management Platform
 
-Machine Learning powered Intrusion Detection System
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Visit%20Site-AAFF00?style=for-the-badge&logo=netlify&logoColor=black)](https://monumental-peony-140351.netlify.app)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/VictorPrasad0026/web_asm)
 
-Technology Stack
+> Enterprise-grade Attack Surface Management with AI-powered security intelligence
 
-- Python
-- Scikit-Learn
-- Pandas
-- NumPy
-- XGBoost
-- Random Forest
-- Deep Learning
+**Features:**
+- 🔍 39-stage intelligence pipeline (DNS, subdomains, CVE, TLS, secrets)
+- 🎯 MITRE ATT&CK mapped attack path simulation  
+- 🤖 AI Security Copilot powered by Groq LLM
+- ⚖️ Compliance mapping — PCI-DSS, GDPR, ISO27001, NIST, OWASP
+- 🕸️ Interactive knowledge graph with asset relationships
 
-Features
-
-- Live Packet Analysis
-- Threat Classification
-- Network Monitoring
-- Real-Time Detection
-- Performance Dashboard
-
----
+**Stack:** Python · Flask · React · Groq AI · NVD · CISA KEV
 
 ## ☁️ Cloud Security Labs
 
